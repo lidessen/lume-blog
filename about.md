@@ -6,4 +6,4 @@ menu:
   order: 2
 ---
 
-This is an example of an about me page.
+A web developer
